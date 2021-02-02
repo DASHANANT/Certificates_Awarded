@@ -1,4 +1,4 @@
-# Certificates By
+# Certified By
 
 - Kaggle
 - Cisco
