@@ -4,5 +4,5 @@
 
 -  Guided Projects
 ![](https://github.com/DASHANANT/Certificates_Awarded/blob/main/Coursera/chi%20square.png)
-![]()
+![](https://github.com/DASHANANT/Certificates_Awarded/blob/main/Coursera/object.png)
 ![]()
